@@ -79,3 +79,13 @@
 - Suç arama alışkanlığından takım dayanışmasına geçilmesi gerekir.
 
 - Yöntem ve araçların kendileri dahil, her şeyin sürekli sorgulanıp daha iyiye götürülebildiği bir ortamın oluşturulması gerekir.
+
+
+## Gemba Walk ( Gemba Yürüyüşü)
+
+- Agile dönüşüm sürecinde üst yönetim desteği çok önemlidir.
+
+- Gemba Yürüyüşü'nün amacı, üst yönetimin asıl iş süreçlerini gözlemlemesi, çalışanlarla daha yakından ilişki kurması, iş süreçleri hakkında bilgi edinmesi ve sürekli iyileştirme için fırsatları keşfetmesidir.
+
+- Ayrıca yöneticilerin klasik yaklaşımdaki "Bana sorun getirme çözüm getir" anlayışını terk etmeleri gerekmektedir.
+
