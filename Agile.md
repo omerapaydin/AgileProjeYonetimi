@@ -1,5 +1,6 @@
 # Agile 
 
+
 ## Agile Nedir ? 
 
 - Agile, yazılım geliştirmede esnek ve hızlı uyum sağlamayı amaçlayan bir proje yönetim yaklaşımıdır. Yani “önce planı tamamen yap, sonra geliştir” yerine, adım adım geliştir ve sürekli iyileştir mantığı vardır.
@@ -8,6 +9,7 @@
 * Sürekli geri bildirim alır
 * Değişikliklere hızlı adapte olur
 * Ürünü aşamalı olarak geliştirir (iteratif süreç)
+
 
 ## Scrum Nedir ?
 
@@ -18,9 +20,11 @@
 * Ekip düzenli olarak toplantılar yapar (Daily Scrum vb.)
 * Sürekli geliştirme ve geri bildirim üzerine kuruludur.
 
+
 ## Paydaş (Stakeholder) Ne demek ? 
 
 - Projenin yürütülmesinde ya da tamamlanması noktasında, olumlu ya da olumsuz şekilde etkilenen veya etki eden kişi ya da kuruluşlar projenin paydaşlarıdır.
+
 
 ## Agile Temel İlkeler
 
@@ -62,3 +66,16 @@
 5- Proje ekibinin ve paydaşlarının değişime olan uyumlarını artırabilmeyi.
 
 6- Sürekli öğrenen ve değişime açık bir kültür kurmayı amaçlar.
+
+
+## Agile Neyi Amaçlar
+
+- Kültürel bir değişim ve yenilenmeden geçmek gerekir.
+
+- Değişimin adım adım olacağını kavramak gerekir.
+
+- Yetkinin ve sorumluluğun yukarıdan aşağı doğru delege edilmesi gerekir.
+
+- Suç arama alışkanlığından takım dayanışmasına geçilmesi gerekir.
+
+- Yöntem ve araçların kendileri dahil, her şeyin sürekli sorgulanıp daha iyiye götürülebildiği bir ortamın oluşturulması gerekir.
