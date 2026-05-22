@@ -47,3 +47,18 @@
 11- Takım düzenli aralıklarla nasıl daha etkili ve verimli olabileceğinin üzerine düşünür ve davranışlarını buna göre ayarlayıp düzenler.
 
 12- Değişiklik talepleri son aşamalarda bile hoş karşılanır ve müşterinin rekabet avantajını sürdürebilmesi için ileteceği değişiklik talebine olumlu dönüş yapılır.
+
+
+## Agile Neyi Amaçlar
+
+1- Kendini örgütleyebilen, çok fonksiyonlu takımlar oluşturabilmeyi.
+
+2- Projeleri parçalar halinde teslim edebilmeyi.
+
+3- Projelerin çıkış hızını artırabilmeyi.
+
+4- Projelerin kalitesini artırabilmeyi.
+
+5- Proje ekibinin ve paydaşlarının değişime olan uyumlarını artırabilmeyi.
+
+6- Sürekli öğrenen ve değişime açık bir kültür kurmayı amaçlar.
