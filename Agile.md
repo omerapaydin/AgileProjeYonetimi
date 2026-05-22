@@ -21,3 +21,29 @@
 ## Paydaş (Stakeholder) Ne demek ? 
 
 - Projenin yürütülmesinde ya da tamamlanması noktasında, olumlu ya da olumsuz şekilde etkilenen veya etki eden kişi ya da kuruluşlar projenin paydaşlarıdır.
+
+## Agile Temel İlkeler
+
+1- Çalışan yazılım, ilerlemenin birinci şartıdır.
+
+2- En önemli öncelik çalışan değerli yazılımın kısa sürede teslimini sağlayarak müşterileri memnun etmektir.
+
+3- Çalışan yazılım tercihen kısa zaman aralıkları belirlenerek birkaç haftada ya da birkaç ayda bir düzenli olarak müşteriye sunulmalıdır yani tekrarlı (iterative) ve artışlı (incremental) bir yaklaşım çalışmalıdır.
+
+4- Çalışan yazılım, ilerlemenin birinci şartıdır. Müşteriler ve yazılımcılar proje boyunca birlikte çalışmalıdır.
+
+5- Bir yazılım takımında bilgi alışverişinin en verimli ve etkin yöntemi kaliteli iletişimdir.
+
+6- Çevik süreçler sürdürülebilir geliştirmeyi teşvik etmektedir. Sponsorlar, yazılımcılar ve kullanıcılar sabit tempoyu sürekli devam ettirebilmelidir.
+
+7- Teknik mükemmeliyet ve iyi tasarım konusundaki sürekli özen çevikliği artırır.
+
+8- Sadelik, yani yapılmasına gerek olmayan işlerin mümkün olduğunca azaltılması sanatı, olmazsa olmazlardandır.
+
+9- En iyi mimariler, gereksinimler ve tasarımlar kendi kendini örgütleyen takımlardan ortaya çıkar.
+
+10- Projelerin temelinde motive olmuş bireyler yer almalıdır. Onlara ihtiyaçları olan ortam ve destek sağlanmalı, işi başaracakları konusunda güven duyulmalıdır. 
+
+11- Takım düzenli aralıklarla nasıl daha etkili ve verimli olabileceğinin üzerine düşünür ve davranışlarını buna göre ayarlayıp düzenler.
+
+12- Değişiklik talepleri son aşamalarda bile hoş karşılanır ve müşterinin rekabet avantajını sürdürebilmesi için ileteceği değişiklik talebine olumlu dönüş yapılır.
