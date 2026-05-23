@@ -1,7 +1,6 @@
-# Agile 
+# Agile
 
-
-## Agile Nedir ? 
+## Agile Nedir ?
 
 - Agile, yazılım geliştirmede esnek ve hızlı uyum sağlamayı amaçlayan bir proje yönetim yaklaşımıdır. Yani “önce planı tamamen yap, sonra geliştir” yerine, adım adım geliştir ve sürekli iyileştir mantığı vardır.
 
@@ -9,7 +8,6 @@
 * Sürekli geri bildirim alır
 * Değişikliklere hızlı adapte olur
 * Ürünü aşamalı olarak geliştirir (iteratif süreç)
-
 
 ## Scrum Nedir ?
 
@@ -20,11 +18,9 @@
 * Ekip düzenli olarak toplantılar yapar (Daily Scrum vb.)
 * Sürekli geliştirme ve geri bildirim üzerine kuruludur.
 
-
-## Paydaş (Stakeholder) Ne demek ? 
+## Paydaş (Stakeholder) Ne demek ?
 
 - Projenin yürütülmesinde ya da tamamlanması noktasında, olumlu ya da olumsuz şekilde etkilenen veya etki eden kişi ya da kuruluşlar projenin paydaşlarıdır.
-
 
 ## Agile Temel İlkeler
 
@@ -46,12 +42,11 @@
 
 9- En iyi mimariler, gereksinimler ve tasarımlar kendi kendini örgütleyen takımlardan ortaya çıkar.
 
-10- Projelerin temelinde motive olmuş bireyler yer almalıdır. Onlara ihtiyaçları olan ortam ve destek sağlanmalı, işi başaracakları konusunda güven duyulmalıdır. 
+10- Projelerin temelinde motive olmuş bireyler yer almalıdır. Onlara ihtiyaçları olan ortam ve destek sağlanmalı, işi başaracakları konusunda güven duyulmalıdır.
 
 11- Takım düzenli aralıklarla nasıl daha etkili ve verimli olabileceğinin üzerine düşünür ve davranışlarını buna göre ayarlayıp düzenler.
 
 12- Değişiklik talepleri son aşamalarda bile hoş karşılanır ve müşterinin rekabet avantajını sürdürebilmesi için ileteceği değişiklik talebine olumlu dönüş yapılır.
-
 
 ## Agile Neyi Amaçlar
 
@@ -67,8 +62,7 @@
 
 6- Sürekli öğrenen ve değişime açık bir kültür kurmayı amaçlar.
 
-
-## Agile Neyi Amaçlar
+## Agile Nasıl Olunur
 
 - Kültürel bir değişim ve yenilenmeden geçmek gerekir.
 
@@ -80,7 +74,6 @@
 
 - Yöntem ve araçların kendileri dahil, her şeyin sürekli sorgulanıp daha iyiye götürülebildiği bir ortamın oluşturulması gerekir.
 
-
 ## Gemba Walk ( Gemba Yürüyüşü)
 
 - Agile dönüşüm sürecinde üst yönetim desteği çok önemlidir.
@@ -88,4 +81,3 @@
 - Gemba Yürüyüşü'nün amacı, üst yönetimin asıl iş süreçlerini gözlemlemesi, çalışanlarla daha yakından ilişki kurması, iş süreçleri hakkında bilgi edinmesi ve sürekli iyileştirme için fırsatları keşfetmesidir.
 
 - Ayrıca yöneticilerin klasik yaklaşımdaki "Bana sorun getirme çözüm getir" anlayışını terk etmeleri gerekmektedir.
-
