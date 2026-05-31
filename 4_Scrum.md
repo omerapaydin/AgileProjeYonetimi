@@ -90,3 +90,13 @@
 - Çalışır bir ürünün teslim edilebilmesi için Geliştirme Takımı'na verilen süreyi tanımlayan bir zaman dilimidir
 - Bir Sprint bittiğinde hemen yeni bir Sprint başlar ve döngü kendini periyodik olarak tekrar eder
 - Sprinti iptal etmek Ürün Sahibi'nin sorumluluğundadır. Fakat Geliştirme Takımı, Scrum Yöneticisi veya Paydaşlar bu kararı alması için Ürün Sahibi'ni yönlendirebilir
+
+## 8. Daily Scrum Meetings (Günlük Scrum Toplantıları)
+
+- Günlük olarak Geliştirme Takımı'nın bir araya gelerek;
+
+1. Son 24 saat içerisinde yaptıkları işleri
+2. Gelecek 24 saat içerisinde neler yapmayı planladıkları ve
+3. Varsa sprint hedefi için risk teşkil edebilecek tehditleri birbirlerine anlatarak senkronize oldukları toplantılardır
+
+- Bu toplantıların 15 dakika olması, ayakta yapılması ve her gün, aynı saatte, aynı yerde, tam zamanında başlaması tavsiye edilir
