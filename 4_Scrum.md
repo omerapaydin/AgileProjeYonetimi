@@ -43,3 +43,9 @@
 - Ürün Sahibi ve Scrum Yöneticisi, Sprint İş Listesi'nden veya Ürün İş Listesi'nden bir iş alıp yapmadıkları sürece bu sayıya dahil olmazlar
 - Sprint İş Listesi'nde yer alan işleri belirlenen Bitti Tanımına göre tamamlamakla sorumludur
 - Ürün İş Listesindeki işlerin 1 sprintte ne kadarının yapılıp yapılmayacağına karar vermek yani tahmin yürütmek ve uygulamak Geliştirme Takımı'nın sorumluluğundadır
+
+### Büyük Projelere Takım Atanması
+
+- Şirket büyük projeler aldıkça veya mevcut projeler büyüdükçe bir Scrum Takımıyla iş yükünü eritmek mümkün olmayacaktır ve yeni takımlara ihtiyaç duyulacaktır
+
+- Bu aşamada bölünerek çoğalma tavsiye edilir. Yani direkt yeni bir takım oluşturmaktansa önce mevcut takımların 2'ye bölünmesi, daha sonra takımlara elemanların eklenmesi tavsiye edilmektedir
