@@ -154,3 +154,17 @@
 | Süreç Değerlendirme Toplantısı (Sprint Retrospective Meeting) | NO                                 | YES                         | YES                             | YES                                  |
 
 ---
+
+## Scrum Board Durumları
+
+### To Do
+
+Henüz başlanmamış, geliştirme kuyruğunda bekleyen işler.
+
+### WIP (Work In Progress)
+
+Aktif olarak üzerinde çalışılan işler.
+
+### Done
+
+Tamamlanmış, test edilmiş ve teslim edilmeye hazır işler.
