@@ -30,3 +30,15 @@
 - Sprint Planlama toplantısında Geliştirme Takımı, Ürün İş Listesi'nden çalışmak üzere kaç item seçeceğine karar verebilir
 
 - Bitti Tanımı'na uygun bir ürünün üzerine konularak tekrar edilmesi, ürünün çalışan ve kullanılabilir bir sürümünün her zaman el altında olmasını sağlar
+
+## 2- Scrum Master (Scrum Yöneticisi)
+
+- Scrum süreçlerinden ve süreçlerin sağlıklı uygulanmasından sorumlu kişidir
+
+- Scrum kurallarını bildirir ve kurallara uyumu kontrol eder
+
+- Takımla alt-üst ilişkisi yoktur, hizmetkar lider rolünü üstlenir
+
+- Engelleri ortdadan kaldırır, ekibe dışarıdan müdahale olmasını engeller
+
+- Ürün Sahibi ile Geliştirme Takımı arasında bir köprü görevi görür
