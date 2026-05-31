@@ -1,6 +1,6 @@
 # Scrum
 
-## 1- Product Owner (Ürün Sahibi)
+## 1. Product Owner (Ürün Sahibi)
 
 - Sprint sonucunda ortaya çıkacak Ürün Parçası'yla ilgili ana kararları verir.
 - Ürünün yaratacağı değerden, işlevselliğinden, ürün kapsamından, neyin, ne zaman teslim edileceğinden ve maliyetten (bütçeden) sorumludur.
@@ -15,7 +15,7 @@
 5. Kaliteli iş çıkarmaları konusunda imkan tanıması
 6. Gelişmeleri ve öğrenmeleri için süre tanıması
 
-## 2- Product Backlog (Ürün İş Listesi)
+## 2. Product Backlog (Ürün İş Listesi)
 
 - Ürün gereksinimleri olarak geçer.
 - Sıralı ve değer puanına göre önceliklendirilmiş bir listedir
@@ -29,7 +29,7 @@
 - Sprint Planlama toplantısında Geliştirme Takımı, Ürün İş Listesi'nden çalışmak üzere kaç item seçeceğine karar verebilir
 - Bitti Tanımı'na uygun bir ürünün üzerine konularak tekrar edilmesi, ürünün çalışan ve kullanılabilir bir sürümünün her zaman el altında olmasını sağlar
 
-## 3- Scrum Master (Scrum Yöneticisi)
+## 3. Scrum Master (Scrum Yöneticisi)
 
 - Scrum süreçlerinden ve süreçlerin sağlıklı uygulanmasından sorumlu kişidir
 - Scrum kurallarını bildirir ve kurallara uyumu kontrol eder
@@ -37,7 +37,7 @@
 - Engelleri ortdadan kaldırır, ekibe dışarıdan müdahale olmasını engeller
 - Ürün Sahibi ile Geliştirme Takımı arasında bir köprü görevi görür
 
-## 4- Development Team (Geliştirme Takımı)
+## 4. Development Team (Geliştirme Takımı)
 
 - 5-9 kişinin bir araya gelmesiyle oluşan, kendi kendine organize olan ve kendi kendine yetebilen çapraz fonksiyonlu ekiplerdir
 - Ürün Sahibi ve Scrum Yöneticisi, Sprint İş Listesi'nden veya Ürün İş Listesi'nden bir iş alıp yapmadıkları sürece bu sayıya dahil olmazlar
@@ -50,7 +50,7 @@
 
 - Bu aşamada bölünerek çoğalma tavsiye edilir. Yani direkt yeni bir takım oluşturmaktansa önce mevcut takımların 2'ye bölünmesi, daha sonra takımlara elemanların eklenmesi tavsiye edilmektedir
 
-## Sprint Planning Meeting (Sprint Planlama Toplantısı)
+## 5. Sprint Planning Meeting (Sprint Planlama Toplantısı)
 
 - Gerçekleştirilecek olan sprintin içeriğinin planlandığı ve sprint hedefinin belirlendiği toplantıdır.
 - Toplantının sorumlusu ve lideri Scrum Yöneticisi'dir. Dışarıdan müşteri veya paydaş katılamaz.
@@ -76,3 +76,17 @@
 
 1. Sprint Hedefi
 2. Sprint Kapsamı
+
+## 6. Sprint Backlog (Sprint İş Listesi)
+
+- Bazı kaynaklarda Döngü Gereksinimler olarak geçer
+- Geliştirme Takımı'nın yaptığı plandır ve takımın kendi sorumluluğundadır
+- Ürün İş Listesinde yer alan kalemlerden hangilerinin Sprint İş Listesi'nde yer alacağına Geliştirme Takımı daha önce gördüğümüz tahminleme yöntemleriyle karar verir
+- Sprint İş Listesinde Ürün Parçası'nı teslim etme ve sprint hedeflerine ulaşma planları yer almalıdır
+
+## 7. Sprint
+
+- Döngü genellikle 3-4 hafta sürer
+- Çalışır bir ürünün teslim edilebilmesi için Geliştirme Takımı'na verilen süreyi tanımlayan bir zaman dilimidir
+- Bir Sprint bittiğinde hemen yeni bir Sprint başlar ve döngü kendini periyodik olarak tekrar eder
+- Sprinti iptal etmek Ürün Sahibi'nin sorumluluğundadır. Fakat Geliştirme Takımı, Scrum Yöneticisi veya Paydaşlar bu kararı alması için Ürün Sahibi'ni yönlendirebilir
