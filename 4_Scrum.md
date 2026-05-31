@@ -119,3 +119,12 @@
 - Scrum Yöneticisi bu toplantıların sorumlusu ve lideridir
 - Bu toplantının çıktısı, Ürün Sahibi tarafından güncellenmiş Ürün İş Listesi'dir. Bu akış döngünün devamını ve sürekli iyileşmeyi sağlamaktadır
 - Eğer Ürün Sahibi yeni bir geliştirme talep etmezse döngü kendini tekrarlamayacak ve Scrum Takımı yeni bir proje üzerinde çalışmaya başlayacaktır
+
+### Ürün Değerlendirme Toplantısı Adımları
+
+1. Ürün Sahibi, Sprint İş Listesi Kalemleri'nin hangilerinin "Bitti Tanımı"na uygun olup olmadığının açıklar
+2. Geliştirme Takımı, Sprint boyunca neyin iyi gittiğini, hangi sorunlarla karşılaştığını ve bu sorunları nasıl çözdüğünü tartışır
+3. Geliştirme Takımı, Bitti Tanımı'na uyan işleri gösterir ve Ürün Parçasıyla ilgili soruları yanıtlar
+4. Scrum Ekibi'ndeki herkes takip eden Sprint Planlama Toplantısı için girdiler sağlar
+5. Pazar koşulları ve ürünün durumu değerlendirilip, Ürün İş Listesi itemlerin sıralaması tartışılır
+6. Ürünün gelecek geliştirmeleri için zaman planının, bütçenin ve mevcut yeteneklerin üstünden geçilir
