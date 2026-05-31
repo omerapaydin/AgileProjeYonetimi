@@ -100,3 +100,22 @@
 3. Varsa sprint hedefi için risk teşkil edebilecek tehditleri birbirlerine anlatarak senkronize oldukları toplantılardır
 
 - Bu toplantıların 15 dakika olması, ayakta yapılması ve her gün, aynı saatte, aynı yerde, tam zamanında başlaması tavsiye edilir
+
+## 9. Product Increment (Ürün Parçası)
+
+- Önceki Sprint sonucunda ortaya çıkan çalışan ürünün, üstüne yeni bir increment yani artış konulmuş son halidir ve temel şart çalışır durumda olmasıdır
+- Ürün sahibi, çalışan ürünün kullanıma sokulup sokulmamasına duruma göre kendi karar verir
+- Ürün Parçası'nın, Ürün İş Listesi'nde belirtilen Bitti Tanımı'na uygun olması gerekmektedir
+
+### MVP
+
+- Minimum : Ürünün sadece çekirdek özelliklere sahip olması anlamına gelir
+- Viable : Ürünün geçerli olması, geliştirme maliyetini karşılayacak bir gelir üretebilmesi anlamına gelmektedir
+- Product : Son kullanıcı için değerli olan en yalın üründür
+
+## 10. Sprint Review Meeting (Ürün Değerlendirme Toplantısı)
+
+- Tüm Scrum Takımı'nın ve Kilit Paydaş'ların sprint sonunda ortaya çıkan ürünü beraber değerlendirdikleri toplantılardır
+- Scrum Yöneticisi bu toplantıların sorumlusu ve lideridir
+- Bu toplantının çıktısı, Ürün Sahibi tarafından güncellenmiş Ürün İş Listesi'dir. Bu akış döngünün devamını ve sürekli iyileşmeyi sağlamaktadır
+- Eğer Ürün Sahibi yeni bir geliştirme talep etmezse döngü kendini tekrarlamayacak ve Scrum Takımı yeni bir proje üzerinde çalışmaya başlayacaktır
