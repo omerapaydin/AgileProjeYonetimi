@@ -128,3 +128,16 @@
 4. Scrum Ekibi'ndeki herkes takip eden Sprint Planlama Toplantısı için girdiler sağlar
 5. Pazar koşulları ve ürünün durumu değerlendirilip, Ürün İş Listesi itemlerin sıralaması tartışılır
 6. Ürünün gelecek geliştirmeleri için zaman planının, bütçenin ve mevcut yeteneklerin üstünden geçilir
+
+## 11. Sprint Retrospective Meeting (Süreç Değerlendirme Toplantısı)
+
+- Scrum Yöneticisi bu toplantının lideri ve sorumlusudur
+- Scrum Takımı dışında kimse bu toplantıya katılamaz
+- Sprint boyunca yapılan işlerin kalitesinin, yapılan doğruların ve yanlışların, kısacası tüm sprintte yapılan çalışmaların değerlendirildiği toplantılardır
+- Toplantıda belirlenen en az 1 gelişim alanının Sprint Planlama Toplantısında gündeme alınması gerekir. Bu akış döngünün devamını sağlar
+
+### Süreç Değerlendirme Toplantısı Adımları
+
+1. Son sprintin nasıl geçtiği değerlendirilir
+2. "Ne iyi gidiyor ?" ve "Neleri daha iyi yaparız ?" sorularının cevapları toplanır
+3. Scrum Takımı'nın iş görme biçimini iyileştirecek en az 1 gelişim alanı Sprint Planlama Toplantısı'na girdi olarak aktarılır
