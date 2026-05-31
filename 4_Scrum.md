@@ -56,3 +56,23 @@
 - Toplantının sorumlusu ve lideri Scrum Yöneticisi'dir. Dışarıdan müşteri veya paydaş katılamaz.
 - 2 haftalık döngüler için 4 saatlik, 1 aylık döngüler için 8 saatlik toplantılar tavsiye edilmektedir.
 - Bu toplantılarda Geliştirme Takımı, Ürün İş Listesinde yer alan kalemlerden ne kadarını bu sprint içerisinde ele alacağını ve işi nasıl yapacağını kendisi belirler. Belirlenen bu kalemler daha sonra Sprint İş Listesi'ne eklenir.
+
+### Girdiler
+
+1. Product Backlog (Ürün İş Listesi)
+2. Product Increment (Son Ürün Parçası)
+3. Sprint süresince Geliştirme Takımı'nın sahip olacağı kapasite bilgisi
+4. Geliştirme Takımı'nıngeçmiş performans verileri
+5. Süreç Değerlendirme Toplantısı'nda belirlenen en az 1 gelişim alanı
+
+### Süreç
+
+1. Ne yapacağız ?
+2. Nasıl yapacağız ?
+
+### Çıktılar
+
+- Sprint İş Listesi (Sprint Backlog)
+
+1. Sprint Hedefi
+2. Sprint Kapsamı
