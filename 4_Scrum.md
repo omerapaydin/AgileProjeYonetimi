@@ -49,3 +49,10 @@
 - Şirket büyük projeler aldıkça veya mevcut projeler büyüdükçe bir Scrum Takımıyla iş yükünü eritmek mümkün olmayacaktır ve yeni takımlara ihtiyaç duyulacaktır
 
 - Bu aşamada bölünerek çoğalma tavsiye edilir. Yani direkt yeni bir takım oluşturmaktansa önce mevcut takımların 2'ye bölünmesi, daha sonra takımlara elemanların eklenmesi tavsiye edilmektedir
+
+## Sprint Planning Meeting (Sprint Planlama Toplantısı)
+
+- Gerçekleştirilecek olan sprintin içeriğinin planlandığı ve sprint hedefinin belirlendiği toplantıdır.
+- Toplantının sorumlusu ve lideri Scrum Yöneticisi'dir. Dışarıdan müşteri veya paydaş katılamaz.
+- 2 haftalık döngüler için 4 saatlik, 1 aylık döngüler için 8 saatlik toplantılar tavsiye edilmektedir.
+- Bu toplantılarda Geliştirme Takımı, Ürün İş Listesinde yer alan kalemlerden ne kadarını bu sprint içerisinde ele alacağını ve işi nasıl yapacağını kendisi belirler. Belirlenen bu kalemler daha sonra Sprint İş Listesi'ne eklenir.
