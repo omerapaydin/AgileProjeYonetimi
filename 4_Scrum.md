@@ -26,19 +26,20 @@
 ### Bitti Tanımı (Definition of Done)
 
 - Ürün İş Listesindeki her bir item için tüm Scrum Takımı tarafından rahatlıkla anlaşılacak bir Bitti Tanımı'nın Ürün İş Listesi'ne eklenmesi gerekir
-
 - Sprint Planlama toplantısında Geliştirme Takımı, Ürün İş Listesi'nden çalışmak üzere kaç item seçeceğine karar verebilir
-
 - Bitti Tanımı'na uygun bir ürünün üzerine konularak tekrar edilmesi, ürünün çalışan ve kullanılabilir bir sürümünün her zaman el altında olmasını sağlar
 
-## 2- Scrum Master (Scrum Yöneticisi)
+## 3- Scrum Master (Scrum Yöneticisi)
 
 - Scrum süreçlerinden ve süreçlerin sağlıklı uygulanmasından sorumlu kişidir
-
 - Scrum kurallarını bildirir ve kurallara uyumu kontrol eder
-
 - Takımla alt-üst ilişkisi yoktur, hizmetkar lider rolünü üstlenir
-
 - Engelleri ortdadan kaldırır, ekibe dışarıdan müdahale olmasını engeller
-
 - Ürün Sahibi ile Geliştirme Takımı arasında bir köprü görevi görür
+
+## 4- Development Team (Geliştirme Takımı)
+
+- 5-9 kişinin bir araya gelmesiyle oluşan, kendi kendine organize olan ve kendi kendine yetebilen çapraz fonksiyonlu ekiplerdir
+- Ürün Sahibi ve Scrum Yöneticisi, Sprint İş Listesi'nden veya Ürün İş Listesi'nden bir iş alıp yapmadıkları sürece bu sayıya dahil olmazlar
+- Sprint İş Listesi'nde yer alan işleri belirlenen Bitti Tanımına göre tamamlamakla sorumludur
+- Ürün İş Listesindeki işlerin 1 sprintte ne kadarının yapılıp yapılmayacağına karar vermek yani tahmin yürütmek ve uygulamak Geliştirme Takımı'nın sorumluluğundadır
