@@ -141,3 +141,16 @@
 1. Son sprintin nasıl geçtiği değerlendirilir
 2. "Ne iyi gidiyor ?" ve "Neleri daha iyi yaparız ?" sorularının cevapları toplanır
 3. Scrum Takımı'nın iş görme biçimini iyileştirecek en az 1 gelişim alanı Sprint Planlama Toplantısı'na girdi olarak aktarılır
+
+---
+
+## Scrum Toplantıları ve Katılımcılar
+
+| Toplantı Adı                                                  | Kilit Paydaşlar (Key Stakeholders) | Ürün Sahibi (Product Owner) | Scrum Yöneticisi (Scrum Master) | Geliştirme Takımı (Development Team) |
+| ------------------------------------------------------------- | ---------------------------------- | --------------------------- | ------------------------------- | ------------------------------------ |
+| Sprint Planlama Toplantısı (Sprint Planning Meeting)          | NO                                 | YES                         | YES                             | YES                                  |
+| Günlük Scrum Toplantısı (Daily Scrum Meeting)                 | NO                                 | NO                          | NO                              | YES                                  |
+| Ürün Değerlendirme Toplantısı (Sprint Review Meeting)         | YES                                | YES                         | YES                             | YES                                  |
+| Süreç Değerlendirme Toplantısı (Sprint Retrospective Meeting) | NO                                 | YES                         | YES                             | YES                                  |
+
+---
